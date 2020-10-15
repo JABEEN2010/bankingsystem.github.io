@@ -44,13 +44,13 @@
 	#content_right{
 		height:10%;
 		width:96%;
-		intial-scale:1;
+		
 	}
 	#clickable #content_right{
 		position:absolute;
 		top:20;
 		width:80%
-		padding:25%;
+		
 	}
 	#bottom_part{
 		height:50%;

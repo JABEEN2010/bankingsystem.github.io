@@ -44,8 +44,8 @@
 	#r_head2{
 		color:#266E69;
 		padding-left:12%
-		margin-top:1px;
-		font: italic bold 22px/30px Georgia, serif;
+		
+		
 	}
 	#name_d{
 		color:#266E69;
